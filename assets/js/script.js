@@ -1,4 +1,4 @@
-// Meu scrit
+// Meu script
 
 // header fixo
 
